@@ -1,5 +1,4 @@
-//Nir Ohayon - 206542953
-//Raz kalfon - 213006083
+//Nir Ohayon 
 
 
 #include "std_lib_facilities.h"
